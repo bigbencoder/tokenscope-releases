@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TokenScope</title>
+        <item>
+            <title>1.15.5</title>
+            <pubDate>Sun, 12 Jul 2026 15:29:57 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.15.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope-1.15.5.zip" length="4768947" type="application/octet-stream" sparkle:edSignature="cDBxkn4Pnxs2s0tdKydkt4P/At1rASJyxnjE8MYhS/eyZGHT/XdU2Cya9s6LDpqhR/ZlUi2MB5CuMtRiuEZAAg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: BWaUN0Uc6QbUmQKA7KdsxqEepadf5Il2CXiDi1MoEzsxsv8UuLzSgc+Vw5ZfE94P60YxO0BTktEsFDYI9VOqAQ==
+length: 1179
+-->
