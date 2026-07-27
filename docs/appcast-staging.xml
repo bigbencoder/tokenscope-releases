@@ -5,13 +5,13 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>TokenScope</title>
         <item>
             <title>1.15.6</title>
-            <pubDate>Mon, 27 Jul 2026 08:13:38 -0400</pubDate>
+            <pubDate>Mon, 27 Jul 2026 08:16:10 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.15.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope-1.15.6.zip" length="4959306" type="application/octet-stream" sparkle:edSignature="00VnK+U5vifPdCP90PDYup1sGGq82BfLLeMkLM9MHC2TxADXrQ2WcdvWp5Wm7YDT+0eYyaIYeK7yzzXmd0SVCQ=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope-1.15.6.zip" length="4959404" type="application/octet-stream" sparkle:edSignature="L5OUHWXCupiTkYV9z2XnOcGsXoURQ/3+mrV5in6nkU29TGs1X8HL2pyug1/+NPOt+BjZ7FcPUg2nhBJts9yBAg=="></enclosure>
             <sparkle:deltas>
                 <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope25-24.delta" sparkle:deltaFrom="24" length="611518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCjMD0mL30++si/mcvxsUVGxWl4ryIh07jQLxBfflGUXOtkGJxE5nw7wtLQR2cMm9x2EQuWk/PrrgEps/Lj2CQ=="></enclosure>
             </sparkle:deltas>
@@ -28,6 +28,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Ccg32J5MmLIyT1zZStQixzXTY0BtlhS1uMAToOSlNP+87mfVUfAPOKIompAbQpwz9/jaEpKzjPU+rY0IdDkSBA==
+edSignature: DLKPQJly7vqH4IzSLAsX0bNbzZyhqJ8j0cAAPgVBh/75dXgKyguIx5DAfXY4i7dRSyb76jEKdI4b8onYJwkQCQ==
 length: 2397
 -->
