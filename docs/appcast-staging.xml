@@ -4,6 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>TokenScope</title>
         <item>
+            <title>1.15.7</title>
+            <pubDate>Tue, 28 Jul 2026 18:59:15 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.15.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope-1.15.7.zip" length="4963756" type="application/octet-stream" sparkle:edSignature="rqaNugFbpeCkVhrr26AwREPegGjG1z0mE5/jHbDIxYOUoH+WPPO3oU7JS+yLMreFVK3PVlXw0ZBW3T1/thJhBw=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope26-25.delta" sparkle:deltaFrom="25" length="197574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lfpg0PIj5K/usTVlbFp7QGC7qJehhHECaSp6qeRG1YgxVfbwBpehF2LiktaQNc3tpwNvF7pgE0Pt+z6u1gg0DQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope26-24.delta" sparkle:deltaFrom="24" length="759942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9lYcNVzPtwkOVrFcy+mu+3g2rlZCqvtJa/DekgDHT01Xeg43p1XeR8L+IaUBDlSQwz7J1TzAhItkxUFV0rduCw=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.15.6</title>
             <pubDate>Mon, 27 Jul 2026 08:16:10 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
@@ -12,9 +26,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope-1.15.6.zip" length="4959404" type="application/octet-stream" sparkle:edSignature="L5OUHWXCupiTkYV9z2XnOcGsXoURQ/3+mrV5in6nkU29TGs1X8HL2pyug1/+NPOt+BjZ7FcPUg2nhBJts9yBAg=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/tokenscope-releases/staging/TokenScope25-24.delta" sparkle:deltaFrom="24" length="611518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dCjMD0mL30++si/mcvxsUVGxWl4ryIh07jQLxBfflGUXOtkGJxE5nw7wtLQR2cMm9x2EQuWk/PrrgEps/Lj2CQ=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.15.5</title>
@@ -28,6 +39,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DLKPQJly7vqH4IzSLAsX0bNbzZyhqJ8j0cAAPgVBh/75dXgKyguIx5DAfXY4i7dRSyb76jEKdI4b8onYJwkQCQ==
-length: 2397
+edSignature: r8+M+ZMUZldi0RL/beGSsdda+THNwarNmE+96WvoOTz/sr/4HjxWjpGFaYL3czlLEj3ajx7Yh8j1GXp5u4KgCA==
+length: 3556
 -->
